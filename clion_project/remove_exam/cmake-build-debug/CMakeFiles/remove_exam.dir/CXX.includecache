@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xionglin/NewDisk/345G/Clion_Project/remove_exam/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+functional
+-
+
