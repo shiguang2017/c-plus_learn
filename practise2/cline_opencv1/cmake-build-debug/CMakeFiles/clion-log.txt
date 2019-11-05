@@ -1,0 +1,4 @@
+/home/xionglin/NewDisk/274G1/programfiles/clion-2018.3.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/xionglin/NewDisk/345G/QT5/C++/practise2/cline_opencv1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/xionglin/NewDisk/345G/QT5/C++/practise2/cline_opencv1/cmake-build-debug
