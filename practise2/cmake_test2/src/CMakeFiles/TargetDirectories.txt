@@ -1,0 +1,3 @@
+/home/xionglin/345G/QT5/C++/practise2/cmake_test1/src/CMakeFiles/edit_cache.dir
+/home/xionglin/345G/QT5/C++/practise2/cmake_test1/src/CMakeFiles/rebuild_cache.dir
+/home/xionglin/345G/QT5/C++/practise2/cmake_test1/src/CMakeFiles/Test.dir
