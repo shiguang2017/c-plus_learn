@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xionglin/NewDisk/345G/Clion_Project/clion2_famx/main.cpp
+iostream
+-
+cmath
+-
+iostream
+-
+
